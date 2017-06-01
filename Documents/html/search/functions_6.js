@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['readregister',['readRegister',['../classadi__sensor__swpack_1_1_a_d7790.html#a1f9d034dce51e0d02cee2971d0ca713a',1,'adi_sensor_swpack::AD7790::readRegister()'],['../classadi__sensor__swpack_1_1_a_d7798.html#a04eb4ad81343ed2c1807d694555a3c1f',1,'adi_sensor_swpack::AD7798::readRegister()'],['../classadi__sensor__swpack_1_1_a_d_c.html#a7dd00b930e0fd435681de2a173440f42',1,'adi_sensor_swpack::ADC::readRegister()'],['../classadi__sensor__swpack_1_1_accelerometer.html#af946712774e6b0f8426963bde472ba1c',1,'adi_sensor_swpack::Accelerometer::readRegister()'],['../classadi__sensor__swpack_1_1_a_d_x_l362.html#aadbcec5cc60cf36e9b0940c2b25a7791',1,'adi_sensor_swpack::ADXL362::readRegister()']]],
+  ['reset',['reset',['../classadi__sensor__swpack_1_1_a_d7790.html#a8bdec00492e3d4310759baa1da8cdcdf',1,'adi_sensor_swpack::AD7790::reset()'],['../classadi__sensor__swpack_1_1_a_d7798.html#a6c4eaf50d6ebe8d4d143369401c0aec7',1,'adi_sensor_swpack::AD7798::reset()'],['../classadi__sensor__swpack_1_1_a_d_c.html#a22a7ddddf4b1ebd921dd88bf860242dc',1,'adi_sensor_swpack::ADC::reset()']]]
+];
